@@ -53,3 +53,8 @@ while(x<10){
 
 var names = ["John", "Zac","Mary", "Katie"];
 console.log(names[3])
+
+var list = ["soccer", "fencing", "boxing"];
+alert(list);
+
+console.log(3+10);
